@@ -6,14 +6,14 @@
             android:name="com.anysoftkeyboard.languagepack.armenian2.PackBroadcastReceiver"
             android:exported="true">
             <intent-filter>
-                <action android:name="com.menny.android.anysoftkeyboard.KEYBOARD" />
+                <action android:name="com.mastegoane.android.anysoftkeyboard.KEYBOARD" />
 
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.ALTERNATIVE" />
                 <category android:name="android.intent.category.SELECTED_ALTERNATIVE" />
             </intent-filter>
             <intent-filter>
-                <action android:name="com.menny.android.anysoftkeyboard.DICTIONARY" />
+                <action android:name="com.mastegoane.android.anysoftkeyboard.DICTIONARY" />
 
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.ALTERNATIVE" />
@@ -21,10 +21,10 @@
             </intent-filter>
 
             <meta-data
-                android:name="com.menny.android.anysoftkeyboard.keyboards"
+                android:name="com.mastegoane.android.anysoftkeyboard.keyboards"
                 android:resource="@xml/armenian2_keyboards" />
             <meta-data
-                android:name="com.menny.android.anysoftkeyboard.dictionaries"
+                android:name="com.mastegoane.android.anysoftkeyboard.dictionaries"
                 android:resource="@xml/armenian2_dictionaries" />
         </receiver>
     </application>

@@ -6,7 +6,7 @@
             android:name="com.anysoftkeyboard.languagepack.oldnortharabian.PackBroadcastReceiver"
             android:exported="true">
             <intent-filter>
-                <action android:name="com.menny.android.anysoftkeyboard.KEYBOARD" />
+                <action android:name="com.mastegoane.android.anysoftkeyboard.KEYBOARD" />
 
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.ALTERNATIVE" />
@@ -14,7 +14,7 @@
             </intent-filter>
 
             <meta-data
-                android:name="com.menny.android.anysoftkeyboard.keyboards"
+                android:name="com.mastegoane.android.anysoftkeyboard.keyboards"
                 android:resource="@xml/oldnortharabian_keyboards" />
         </receiver>
     </application>

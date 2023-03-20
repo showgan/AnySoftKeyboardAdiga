@@ -8,8 +8,12 @@ include ':junit-sharding'
 include ':addons:base'
 include ':addons:languages'
 include ':addons:languages:english', ':addons:languages:english:pack'
+include ':addons:languages:adiga', ':addons:languages:adiga:pack'
+include ':addons:languages:arabic', ':addons:languages:arabic:pack'
+include ':addons:languages:hebrew', ':addons:languages:hebrew:pack'
 
 //list of packs should be alphabetized-ordered
+include ':addons:languages:adiga:pack', ':addons:languages:adiga:apk'
 include ':addons:languages:afrikaans_oss:pack', ':addons:languages:afrikaans_oss:apk'
 include ':addons:languages:arabic:pack', ':addons:languages:arabic:apk'
 include ':addons:languages:armenian2:pack', ':addons:languages:armenian2:apk'
