@@ -22,8 +22,8 @@ import androidx.annotation.Nullable;
 import androidx.preference.ListPreference;
 import androidx.preference.PreferenceFragmentCompat;
 import com.anysoftkeyboard.keyboards.KeyboardAddOnAndBuilder;
-import com.menny.android.anysoftkeyboard.AnyApplication;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.AnyApplication;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.util.List;
 
 public class LanguageTweaksFragment extends PreferenceFragmentCompat {

@@ -577,7 +577,7 @@
     <string name="allow_permission">Permetti</string>
     <string name="turn_off_contacts_dictionary">Disattiva dizionario Contatti</string>
     <string name="read_more_about_permissions">Per saperne di più sulle autorizzazioni…</string>
-    <string name="ask_beta_link_promo">Hey! Vuoi roba nuova di <i>AnySoftKeyboard</i> più velocemente? Allora sei fortunato! Il canale <i>BETA</i> è ora disponibile per <b>TE</b>!\nBasta iscriversi al link sottostante, e aggiornare tramite <i>Google Play</i> App Store!\n\nhttps://play.google.com/apps/testing/com.menny.android.anysoftkeyboard\n\nE grazie dell\'aiuto nell\'acchiappare bachi prima che raggiungano il pubblico.</string>
+    <string name="ask_beta_link_promo">Hey! Vuoi roba nuova di <i>AnySoftKeyboard</i> più velocemente? Allora sei fortunato! Il canale <i>BETA</i> è ora disponibile per <b>TE</b>!\nBasta iscriversi al link sottostante, e aggiornare tramite <i>Google Play</i> App Store!\n\nhttps://play.google.com/apps/testing/com.mastegoane.android.anysoftkeyboard\n\nE grazie dell\'aiuto nell\'acchiappare bachi prima che raggiungano il pubblico.</string>
     <string name="clipboard_fine_select_enabled_toast">Selezione sottile testo abilitata. Usa freccia sinistra/destra.</string>
     <string name="app_shortcut_keyboards_disabled">Navigazione tastiere disattivata</string>
     <string name="app_shortcut_keyboards_long_label">Scegli disposizioni tastiera da utilizzare</string>
@@ -654,7 +654,7 @@
     <string name="aosp_light_theme_description">Tema tastiera con colori chiari ispirato ad AOSP</string>
     <string name="app_share_title">Saluti da AnySoftKeyboard</string>
     <string name="app_share_menu_title">Condividi l\'utilizzo di AnySoftKeyboard</string>
-    <string name="app_share_text">Permettetemi di consigliare la tastiera Android open-source, riservata, gratuita, altamente personalizzabile e multilingua AnySoftKeyboard.\nScaricala da:\nPlay Store: https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard</string>
+    <string name="app_share_text">Permettetemi di consigliare la tastiera Android open-source, riservata, gratuita, altamente personalizzabile e multilingua AnySoftKeyboard.\nScaricala da:\nPlay Store: https://play.google.com/store/apps/details?id=com.mastegoane.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.mastegoane.android.anysoftkeyboard</string>
     <string name="click_me_for_easter_egg_info">cliccami per una sorpresa</string>
     <string name="backup_restore_not_support_before_kitkat">Non supportato sul tuo Android</string>
     <string name="backup_restore_not_support_before_kitkat_message">Backup e ripristino non sono supportati per dispositivi con Android precedente a KitKat (versione 4.4).</string>

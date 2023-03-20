@@ -6,7 +6,7 @@ import android.os.Build;
 import android.text.TextUtils;
 import androidx.annotation.RequiresApi;
 import com.anysoftkeyboard.test.SharedPrefsHelper;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.util.Locale;
 import org.junit.After;
 import org.junit.Assert;

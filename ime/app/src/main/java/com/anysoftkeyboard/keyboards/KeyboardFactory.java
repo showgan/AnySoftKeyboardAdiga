@@ -24,8 +24,8 @@ import com.anysoftkeyboard.addons.AddOn;
 import com.anysoftkeyboard.addons.AddOnsFactory;
 import com.anysoftkeyboard.base.utils.Logger;
 import com.anysoftkeyboard.prefs.DirectBootAwareSharedPreferences;
-import com.menny.android.anysoftkeyboard.BuildConfig;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.BuildConfig;
+import com.mastegoane.android.anysoftkeyboard.R;
 
 public class KeyboardFactory extends AddOnsFactory.MultipleAddOnsFactory<KeyboardAddOnAndBuilder> {
     private static final String TAG = "ASKKeyboardFactory";
@@ -48,8 +48,8 @@ public class KeyboardFactory extends AddOnsFactory.MultipleAddOnsFactory<Keyboar
                 context,
                 DirectBootAwareSharedPreferences.create(context),
                 TAG,
-                "com.menny.android.anysoftkeyboard.KEYBOARD",
-                "com.menny.android.anysoftkeyboard.keyboards",
+                "com.mastegoane.android.anysoftkeyboard.KEYBOARD",
+                "com.mastegoane.android.anysoftkeyboard.keyboards",
                 "Keyboards",
                 "Keyboard",
                 PREF_ID_PREFIX,

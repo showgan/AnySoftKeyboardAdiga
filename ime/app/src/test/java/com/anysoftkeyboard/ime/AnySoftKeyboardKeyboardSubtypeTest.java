@@ -12,7 +12,7 @@ import com.anysoftkeyboard.AnySoftKeyboardBaseTest;
 import com.anysoftkeyboard.AnySoftKeyboardRobolectricTestRunner;
 import com.anysoftkeyboard.api.KeyCodes;
 import com.anysoftkeyboard.keyboards.KeyboardAddOnAndBuilder;
-import com.menny.android.anysoftkeyboard.AnyApplication;
+import com.mastegoane.android.anysoftkeyboard.AnyApplication;
 import java.util.List;
 import org.junit.Assert;
 import org.junit.Ignore;
@@ -35,8 +35,8 @@ public class AnySoftKeyboardKeyboardSubtypeTest extends AnySoftKeyboardBaseTest 
                         Mockito.notNull(),
                         Mockito.eq(
                                 new ComponentName(
-                                                "com.menny.android.anysoftkeyboard",
-                                                "com.menny.android.anysoftkeyboard.SoftKeyboard")
+                                                "com.mastegoane.android.anysoftkeyboard",
+                                                "com.mastegoane.android.anysoftkeyboard.SoftKeyboard")
                                         .flattenToShortString()),
                         subtypeArgumentCaptor.capture());
         final InputMethodSubtype subtypeArgumentCaptorValue = subtypeArgumentCaptor.getValue();
@@ -60,8 +60,8 @@ public class AnySoftKeyboardKeyboardSubtypeTest extends AnySoftKeyboardBaseTest 
                 .setAdditionalInputMethodSubtypes(
                         Mockito.eq(
                                 new ComponentName(
-                                                "com.menny.android.anysoftkeyboard",
-                                                "com.menny.android.anysoftkeyboard.SoftKeyboard")
+                                                "com.mastegoane.android.anysoftkeyboard",
+                                                "com.mastegoane.android.anysoftkeyboard.SoftKeyboard")
                                         .flattenToShortString()),
                         subtypesCaptor.capture());
 
@@ -118,8 +118,8 @@ public class AnySoftKeyboardKeyboardSubtypeTest extends AnySoftKeyboardBaseTest 
                 .setAdditionalInputMethodSubtypes(
                         Mockito.eq(
                                 new ComponentName(
-                                                "com.menny.android.anysoftkeyboard",
-                                                "com.menny.android.anysoftkeyboard.SoftKeyboard")
+                                                "com.mastegoane.android.anysoftkeyboard",
+                                                "com.mastegoane.android.anysoftkeyboard.SoftKeyboard")
                                         .flattenToShortString()),
                         subtypesCaptor.capture());
 
@@ -170,8 +170,8 @@ public class AnySoftKeyboardKeyboardSubtypeTest extends AnySoftKeyboardBaseTest 
                         Mockito.notNull(),
                         Mockito.eq(
                                 new ComponentName(
-                                                "com.menny.android.anysoftkeyboard",
-                                                "com.menny.android.anysoftkeyboard.SoftKeyboard")
+                                                "com.mastegoane.android.anysoftkeyboard",
+                                                "com.mastegoane.android.anysoftkeyboard.SoftKeyboard")
                                         .flattenToShortString()),
                         subtypeArgumentCaptor.capture());
         final InputMethodSubtype subtypeArgumentCaptorValue = subtypeArgumentCaptor.getValue();

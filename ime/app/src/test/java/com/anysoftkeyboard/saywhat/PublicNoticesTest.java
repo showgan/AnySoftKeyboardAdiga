@@ -3,7 +3,7 @@ package com.anysoftkeyboard.saywhat;
 import android.text.TextUtils;
 import androidx.test.core.app.ApplicationProvider;
 import com.anysoftkeyboard.AnySoftKeyboardRobolectricTestRunner;
-import com.menny.android.anysoftkeyboard.AnyRoboApplication;
+import com.mastegoane.android.anysoftkeyboard.AnyRoboApplication;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;

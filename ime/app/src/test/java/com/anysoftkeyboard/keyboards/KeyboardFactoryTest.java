@@ -4,7 +4,7 @@ import static androidx.test.core.app.ApplicationProvider.getApplicationContext;
 
 import com.anysoftkeyboard.AddOnTestUtils;
 import com.anysoftkeyboard.AnySoftKeyboardRobolectricTestRunner;
-import com.menny.android.anysoftkeyboard.AnyApplication;
+import com.mastegoane.android.anysoftkeyboard.AnyApplication;
 import java.util.List;
 import org.junit.Assert;
 import org.junit.Before;

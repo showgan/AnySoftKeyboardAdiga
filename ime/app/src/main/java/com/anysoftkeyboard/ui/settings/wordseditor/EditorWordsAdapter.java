@@ -8,7 +8,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.util.ArrayList;
 import java.util.List;
 

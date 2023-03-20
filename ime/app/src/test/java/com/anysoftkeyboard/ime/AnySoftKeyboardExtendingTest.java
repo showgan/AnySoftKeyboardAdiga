@@ -2,7 +2,7 @@ package com.anysoftkeyboard.ime;
 
 import com.anysoftkeyboard.AnySoftKeyboardBaseTest;
 import com.anysoftkeyboard.AnySoftKeyboardRobolectricTestRunner;
-import com.menny.android.anysoftkeyboard.SoftKeyboard;
+import com.mastegoane.android.anysoftkeyboard.SoftKeyboard;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;

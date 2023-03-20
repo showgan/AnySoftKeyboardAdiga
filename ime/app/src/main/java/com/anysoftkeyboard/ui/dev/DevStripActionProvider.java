@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import com.anysoftkeyboard.keyboards.views.KeyboardViewContainerView;
 import com.anysoftkeyboard.ui.settings.MainSettingsActivity;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 
 public class DevStripActionProvider implements KeyboardViewContainerView.StripActionProvider {
     @NonNull private final Context mContext;

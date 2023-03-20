@@ -19,7 +19,7 @@ import com.anysoftkeyboard.keyboards.Keyboard;
 import com.anysoftkeyboard.keyboards.views.KeyboardViewContainerView;
 import com.anysoftkeyboard.rx.TestRxSchedulers;
 import com.anysoftkeyboard.test.SharedPrefsHelper;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import io.reactivex.disposables.CompositeDisposable;
 import java.util.Arrays;
 import java.util.concurrent.atomic.AtomicReference;

@@ -5,7 +5,7 @@ import static androidx.test.core.app.ApplicationProvider.getApplicationContext;
 import com.anysoftkeyboard.api.KeyCodes;
 import com.anysoftkeyboard.keyboards.AnyKeyboard;
 import com.anysoftkeyboard.test.SharedPrefsHelper;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

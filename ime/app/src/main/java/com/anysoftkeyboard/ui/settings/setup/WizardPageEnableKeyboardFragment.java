@@ -15,7 +15,7 @@ import androidx.fragment.app.FragmentActivity;
 import app.cash.copper.rx2.RxContentResolver;
 import com.anysoftkeyboard.rx.RxSchedulers;
 import com.anysoftkeyboard.ui.settings.MainSettingsActivity;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import io.reactivex.disposables.Disposable;
 import io.reactivex.disposables.Disposables;
 

@@ -39,7 +39,7 @@ import com.anysoftkeyboard.addons.AddOnsFactory;
 import com.anysoftkeyboard.base.utils.Logger;
 import com.anysoftkeyboard.keyboards.views.DemoAnyKeyboardView;
 import com.anysoftkeyboard.ui.settings.widget.AddOnStoreSearchView;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashSet;

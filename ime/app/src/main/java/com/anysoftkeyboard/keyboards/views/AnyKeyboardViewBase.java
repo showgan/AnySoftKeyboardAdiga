@@ -17,7 +17,7 @@
 package com.anysoftkeyboard.keyboards.views;
 
 import static com.anysoftkeyboard.overlay.OverlyDataCreatorForAndroid.OS_SUPPORT_FOR_ACCENT;
-import static com.menny.android.anysoftkeyboard.AnyApplication.getKeyboardThemeFactory;
+import static com.mastegoane.android.anysoftkeyboard.AnyApplication.getKeyboardThemeFactory;
 
 import android.content.Context;
 import android.content.res.ColorStateList;
@@ -77,9 +77,9 @@ import com.anysoftkeyboard.prefs.RxSharedPrefs;
 import com.anysoftkeyboard.rx.GenericOnError;
 import com.anysoftkeyboard.theme.KeyboardTheme;
 import com.anysoftkeyboard.utils.EmojiUtils;
-import com.menny.android.anysoftkeyboard.AnyApplication;
-import com.menny.android.anysoftkeyboard.BuildConfig;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.AnyApplication;
+import com.mastegoane.android.anysoftkeyboard.BuildConfig;
+import com.mastegoane.android.anysoftkeyboard.R;
 import io.reactivex.Observable;
 import io.reactivex.disposables.CompositeDisposable;
 import io.reactivex.subjects.BehaviorSubject;

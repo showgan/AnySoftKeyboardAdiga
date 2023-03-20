@@ -662,7 +662,7 @@
     <string name="turn_off_contacts_dictionary">A névjegyszótár kikapcsolása</string>
     <string name="read_more_about_permissions">További információ az engedélyekről…</string>
     <string name="ask_beta_link_promo">Hé! Szeretné az <i>AnySoftKeyboard</i> új funkcióit hamarabb kipróbálni? Szerencséje van! <i>BETA</i> csatornánk elérhető az <b>ÖN</b> számára is!\nCsak regisztráljon a lenti linken, és frissítsen a <i>Google Play</i> -ben!\n\n
-        https://play.google.com/apps/testing/com.menny.android.anysoftkeyboard \n\nÉs köszönet, hogy segíti a hibák javítását, mielőtt azok a nyilvánosság elé kerülnének.
+        https://play.google.com/apps/testing/com.mastegoane.android.anysoftkeyboard \n\nÉs köszönet, hogy segíti a hibák javítását, mielőtt azok a nyilvánosság elé kerülnének.
     </string>
     <string name="clipboard_fine_select_enabled_toast">Pontos szövegkijelölés a balra/jobbra nyilakkal.</string>
     <string name="app_shortcut_keyboards_disabled">Billentyűzetek navigálása letiltva</string>
@@ -747,7 +747,7 @@
     <string name="aosp_light_theme_description">AOSP által inspirált, világos színvilágú téma</string>
     <string name="app_share_title">Üdvözli az AnySoftKeyboard</string>
     <string name="app_share_menu_title">AnySoftKeyboard megosztása ezzel</string>
-    <string name="app_share_text">Hadd javasoljuk a nyílt forráskódú, ingyenes, jól testreszabható, többnyelvű Android billentyűzetalkalmazást, az AnySoftKeyboard-ot.\nLetöltés:\nPlay Store: https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/</string>
+    <string name="app_share_text">Hadd javasoljuk a nyílt forráskódú, ingyenes, jól testreszabható, többnyelvű Android billentyűzetalkalmazást, az AnySoftKeyboard-ot.\nLetöltés:\nPlay Store: https://play.google.com/store/apps/details?id=com.mastegoane.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.mastegoane.android.anysoftkeyboard/</string>
     <string name="click_me_for_easter_egg_info">Kattintson egy meglepetéshez</string>
     <string name="backup_restore_not_support_before_kitkat">Nem támogatott ezen az Android verzión</string>
     <string name="backup_restore_not_support_before_kitkat_message">A biztonsági mentés és visszaállítás nem támogatott a KitKat (4.4-es verzió) előtti Android operációs rendszert futtató eszközökön. Sajnálom.</string>

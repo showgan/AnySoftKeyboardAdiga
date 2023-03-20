@@ -3,7 +3,7 @@ package com.anysoftkeyboard.keyboards;
 import android.content.Context;
 import androidx.annotation.NonNull;
 import com.anysoftkeyboard.addons.AddOn;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.util.List;
 
 public class PopupListKeyboard extends AnyPopupKeyboard {

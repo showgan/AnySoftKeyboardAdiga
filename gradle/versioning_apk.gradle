@@ -10,8 +10,10 @@ static Project findRootVersioningProject(Project proj) {
 
 android.defaultConfig {
     def versioningProject = findRootVersioningProject(project)
-    versionCode versioningProject.autoVersioning.versionData.versionCode
-    versionName versioningProject.autoVersioning.versionData.versionName
+//    versionCode versioningProject.autoVersioning.versionData.versionCode
+//    versionName versioningProject.autoVersioning.versionData.versionName
+    versionCode 3
+    versionName "1.0"
 
     println "Building ${project.path} ${versionName} (or ${project.version}), code ${versionCode}."
 }

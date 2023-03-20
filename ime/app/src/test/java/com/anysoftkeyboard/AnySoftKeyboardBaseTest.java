@@ -15,7 +15,7 @@ import android.view.inputmethod.InputMethodSubtype;
 import com.anysoftkeyboard.keyboards.AnyKeyboard;
 import com.anysoftkeyboard.keyboards.views.CandidateView;
 import com.anysoftkeyboard.rx.TestRxSchedulers;
-import com.menny.android.anysoftkeyboard.InputMethodManagerShadow;
+import com.mastegoane.android.anysoftkeyboard.InputMethodManagerShadow;
 import java.util.Arrays;
 import java.util.List;
 import org.junit.After;

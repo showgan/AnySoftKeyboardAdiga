@@ -10,8 +10,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.navigation.Navigation;
-import com.menny.android.anysoftkeyboard.BuildConfig;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.BuildConfig;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.util.Calendar;
 
 public class AboutAnySoftKeyboardFragment extends Fragment implements View.OnClickListener {

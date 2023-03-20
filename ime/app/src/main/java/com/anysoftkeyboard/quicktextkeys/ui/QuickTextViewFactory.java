@@ -4,7 +4,7 @@ import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
 import com.anysoftkeyboard.quicktextkeys.QuickKeyHistoryRecords;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 
 public class QuickTextViewFactory {
 

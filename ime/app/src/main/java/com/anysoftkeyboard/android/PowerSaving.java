@@ -12,8 +12,8 @@ import androidx.annotation.RequiresApi;
 import androidx.annotation.StringRes;
 import com.anysoftkeyboard.prefs.RxSharedPrefs;
 import com.github.karczews.rxbroadcastreceiver.RxBroadcastReceivers;
-import com.menny.android.anysoftkeyboard.AnyApplication;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.AnyApplication;
+import com.mastegoane.android.anysoftkeyboard.R;
 import io.reactivex.Observable;
 import io.reactivex.annotations.CheckReturnValue;
 

@@ -25,7 +25,7 @@ import com.anysoftkeyboard.base.utils.Logger;
 import com.anysoftkeyboard.quicktextkeys.TagsExtractor;
 import com.anysoftkeyboard.quicktextkeys.TagsExtractorImpl;
 import com.anysoftkeyboard.utils.IMEUtil;
-import com.menny.android.anysoftkeyboard.BuildConfig;
+import com.mastegoane.android.anysoftkeyboard.BuildConfig;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;

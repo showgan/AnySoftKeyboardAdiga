@@ -2,7 +2,7 @@ package com.anysoftkeyboard.quicktextkeys.ui;
 
 import androidx.annotation.Nullable;
 import com.anysoftkeyboard.prefs.RxSharedPrefs;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import emoji.utils.JavaEmojiUtils;
 import io.reactivex.disposables.Disposable;
 import java.util.Random;

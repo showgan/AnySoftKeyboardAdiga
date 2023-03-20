@@ -24,7 +24,7 @@ import com.anysoftkeyboard.keyboards.Keyboard;
 import com.anysoftkeyboard.keyboards.views.AnyKeyboardViewWithExtraDraw;
 import com.anysoftkeyboard.keyboards.views.extradraw.PopTextExtraDraw;
 import com.anysoftkeyboard.rx.GenericOnError;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 
 public abstract class AnySoftKeyboardPopText extends AnySoftKeyboardPowerSaving {
 

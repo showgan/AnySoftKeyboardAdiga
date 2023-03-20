@@ -21,8 +21,8 @@ import android.graphics.drawable.Drawable;
 import android.os.StrictMode;
 import androidx.core.content.ContextCompat;
 import com.anysoftkeyboard.base.utils.Logger;
-import com.menny.android.anysoftkeyboard.AnyApplication;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.AnyApplication;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.util.List;
 
 public class DebugAnyApplication extends AnyApplication {

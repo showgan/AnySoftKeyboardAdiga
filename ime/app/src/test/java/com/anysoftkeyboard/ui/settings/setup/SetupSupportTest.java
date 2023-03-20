@@ -10,7 +10,7 @@ import android.view.animation.Animation;
 import com.anysoftkeyboard.AnySoftKeyboardRobolectricTestRunner;
 import com.anysoftkeyboard.keyboards.KeyboardAddOnAndBuilder;
 import com.anysoftkeyboard.keyboards.KeyboardFactory;
-import com.menny.android.anysoftkeyboard.AnyRoboApplication;
+import com.mastegoane.android.anysoftkeyboard.AnyRoboApplication;
 import java.util.ArrayList;
 import java.util.Locale;
 import org.junit.After;

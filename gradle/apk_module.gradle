@@ -18,7 +18,7 @@ static String calculateApplicationId(Project proj) {
     } else if (proj.path.contains('quicktexts')) {
         defaultId += "quicktexts.${addOnName}"
     } else if (proj.path.contains('ime')) {
-        defaultId = 'com.menny.android.anysoftkeyboard'
+        defaultId = 'com.mastegoane.android.anysoftkeyboard'
     } else {
         throw new IllegalStateException('Called on an APK project that has an unknown parent')
     }

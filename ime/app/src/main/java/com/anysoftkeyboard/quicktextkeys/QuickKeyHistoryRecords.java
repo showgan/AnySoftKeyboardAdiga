@@ -5,7 +5,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.VisibleForTesting;
 import com.anysoftkeyboard.prefs.RxSharedPrefs;
 import com.f2prateek.rx.preferences2.Preference;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

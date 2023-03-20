@@ -12,8 +12,8 @@ import com.anysoftkeyboard.quicktextkeys.ui.DefaultSkinTonePrefTracker;
 import com.anysoftkeyboard.quicktextkeys.ui.QuickTextPagerView;
 import com.anysoftkeyboard.quicktextkeys.ui.QuickTextViewFactory;
 import com.anysoftkeyboard.rx.GenericOnError;
-import com.menny.android.anysoftkeyboard.AnyApplication;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.AnyApplication;
+import com.mastegoane.android.anysoftkeyboard.R;
 
 public abstract class AnySoftKeyboardWithQuickText extends AnySoftKeyboardMediaInsertion {
 

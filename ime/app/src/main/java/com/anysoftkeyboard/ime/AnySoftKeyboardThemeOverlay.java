@@ -16,7 +16,7 @@ import com.anysoftkeyboard.overlay.OverlyDataCreatorForAndroid;
 import com.anysoftkeyboard.rx.GenericOnError;
 import com.anysoftkeyboard.theme.KeyboardTheme;
 import com.anysoftkeyboard.theme.KeyboardThemeFactory;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.util.Collections;
 import java.util.Locale;
 import java.util.Map;

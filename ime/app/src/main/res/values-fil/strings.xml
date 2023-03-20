@@ -485,7 +485,7 @@
     <string name="allow_permission">Payagan</string>
     <string name="turn_off_contacts_dictionary">Patayin ang mga kontak sa diksyunaryu</string>
     <string name="read_more_about_permissions">Basahin pa ang tungkol sa mga permiso…</string>
-    <string name="ask_beta_link_promo">Uy! Gusto mo ng bago <i>AnySoftKeyboard</i> mas mabilis ng stuff? Ngayon ikaw ay maswerte! <i>BETA</i> na channel ay pwede na para <b>SAYO</b>!\nmag signup lang sa link sa baba, at i-update mo gamit ang <i>Google Play</i> app store!\n\n https://play.google.com/apps/testing/com.menny.android.anysoftkeyboard \n\nAt salamat sa pagtulong na pagpatay sa mga bugs bago ito makarating sa publiko.</string>
+    <string name="ask_beta_link_promo">Uy! Gusto mo ng bago <i>AnySoftKeyboard</i> mas mabilis ng stuff? Ngayon ikaw ay maswerte! <i>BETA</i> na channel ay pwede na para <b>SAYO</b>!\nmag signup lang sa link sa baba, at i-update mo gamit ang <i>Google Play</i> app store!\n\n https://play.google.com/apps/testing/com.mastegoane.android.anysoftkeyboard \n\nAt salamat sa pagtulong na pagpatay sa mga bugs bago ito makarating sa publiko.</string>
     <string name="clipboard_fine_select_enabled_toast">Mabuting-teksto-seleksyon ay pinagana. Gamitin ay kaliwa/kanan na mga arrows.</string>
     <string name="app_shortcut_keyboards_disabled">Nabigasyon ng kayboard ay naka disabled</string>
     <string name="app_shortcut_keyboards_long_label">Pumili ng keyboard para sa mga layout na ginagamit</string>

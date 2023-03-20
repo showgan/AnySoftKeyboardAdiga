@@ -4,8 +4,8 @@ Caraterìstiche/Caratteristiche:
 
 Tastera e dissionari d'la lenga piemuntèisa con pì che 50'000 parole.
 Ël dissionari a ven da la Fundassiun Enrico Eandi (piemunteis.it).
-Instala [[com.menny.android.anysoftkeyboard]] prima, e dòp selessiuna la tastera ën piemunteis drinta le impostassiun d'l'applicassiun.
+Instala [[com.mastegoane.android.anysoftkeyboard]] prima, e dòp selessiuna la tastera ën piemunteis drinta le impostassiun d'l'applicassiun.
 
 Tastiera e dizionario per la lingua piemontese con più di 50'000 parole.
 Il dizionario viene dalla Fondazione Enrico Eandi (piemunteis.it).
-Installa prima [[com.menny.android.anysoftkeyboard]], e dopo seleziona la tastiera in piemontese dalle impostazioni dell'applicazione.
+Installa prima [[com.mastegoane.android.anysoftkeyboard]], e dopo seleziona la tastiera in piemontese dalle impostazioni dell'applicazione.

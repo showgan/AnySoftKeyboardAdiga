@@ -26,7 +26,7 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.preference.CheckBoxPreference;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceFragmentCompat;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.util.ArrayList;
 import java.util.List;
 import net.evendanan.pixel.GeneralDialogController;

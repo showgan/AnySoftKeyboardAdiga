@@ -37,9 +37,9 @@ import com.anysoftkeyboard.ime.AnySoftKeyboardBase;
 import com.anysoftkeyboard.keyboardextensions.KeyboardExtension;
 import com.anysoftkeyboard.keyboards.views.KeyDrawableStateProvider;
 import com.anysoftkeyboard.utils.Workarounds;
-import com.menny.android.anysoftkeyboard.AnyApplication;
-import com.menny.android.anysoftkeyboard.BuildConfig;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.AnyApplication;
+import com.mastegoane.android.anysoftkeyboard.BuildConfig;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.util.ArrayList;
@@ -651,7 +651,7 @@ public abstract class AnyKeyboard extends Keyboard {
         // filling popup res for external keyboards
         if (key.popupCharacters != null) {
             if (key.popupCharacters.length() > 0) {
-                key.popupResId = com.menny.android.anysoftkeyboard.R.xml.popup_one_row;
+                key.popupResId = com.mastegoane.android.anysoftkeyboard.R.xml.popup_one_row;
             }
             return true;
         }

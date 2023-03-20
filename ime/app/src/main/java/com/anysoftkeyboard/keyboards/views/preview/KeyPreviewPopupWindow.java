@@ -16,7 +16,7 @@ import android.widget.TextView;
 import androidx.annotation.StyleRes;
 import com.anysoftkeyboard.base.utils.CompatUtils;
 import com.anysoftkeyboard.keyboards.Keyboard;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 
 class KeyPreviewPopupWindow implements KeyPreview {
 

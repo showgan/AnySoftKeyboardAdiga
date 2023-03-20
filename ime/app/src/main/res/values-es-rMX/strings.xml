@@ -576,7 +576,7 @@
     <string name="allow_permission">Permitir</string>
     <string name="turn_off_contacts_dictionary">Desactivar el Diccionario de contactos</string>
     <string name="read_more_about_permissions">Más información acerca de permisos…</string>
-    <string name="ask_beta_link_promo">¡Hola! ¿Le interesaría obtener novedades de AnySoftKeyboard más rápido? ¡Las tenemos para <b>usted</b> en nuestro canal <i>beta</i>!\nRegístrese a través del enlace de abajo y reciba actualizaciones directamente de la tienda de <i>Google Play</i>!\n\nhttps://play.google.com/apps/testing/com.menny.android.anysoftkeyboard\n\nGracias por ayudarnos a corregir fallas antes de la versión pública.    </string>
+    <string name="ask_beta_link_promo">¡Hola! ¿Le interesaría obtener novedades de AnySoftKeyboard más rápido? ¡Las tenemos para <b>usted</b> en nuestro canal <i>beta</i>!\nRegístrese a través del enlace de abajo y reciba actualizaciones directamente de la tienda de <i>Google Play</i>!\n\nhttps://play.google.com/apps/testing/com.mastegoane.android.anysoftkeyboard\n\nGracias por ayudarnos a corregir fallas antes de la versión pública.    </string>
     <string name="clipboard_fine_select_enabled_toast">Selección de texto precisa activada. Use las flechas izq. o der.</string>
     <string name="app_shortcut_keyboards_disabled">Navegación de teclados desactivada</string>
     <string name="app_shortcut_keyboards_long_label">Elegir distribución de teclado</string>
@@ -652,6 +652,6 @@
     <string name="aosp_light_theme_description">Tema de teclado con colores claros inspirado en AOSP</string>
     <string name="app_share_title">Bienvenid@ a AnySoftKeyboard</string>
     <string name="app_share_menu_title">Compartir AnySoftKeyboard con</string>
-    <string name="app_share_text">Permítanme recomendar la aplicación de teclado para Android de código abierto, enfocada en la privacidad, gratuita, altamente personalizable y en varios idiomas, AnySoftKeyboard.\nConsíguelo en:\nPlay Store: https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/</string>
+    <string name="app_share_text">Permítanme recomendar la aplicación de teclado para Android de código abierto, enfocada en la privacidad, gratuita, altamente personalizable y en varios idiomas, AnySoftKeyboard.\nConsíguelo en:\nPlay Store: https://play.google.com/store/apps/details?id=com.mastegoane.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.mastegoane.android.anysoftkeyboard/</string>
     <string name="click_me_for_easter_egg_info">haz clic en mí para una sorpresa</string>
 </resources>

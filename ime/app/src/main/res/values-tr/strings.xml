@@ -572,7 +572,7 @@ bulamıyorum. Bu özellik cihazınızda çalışamaz, üzgünüz.</string>
     <string name="turn_off_contacts_dictionary">Kişi Sözlüğünü kapat</string>
     <string name="read_more_about_permissions">Izinler hakkında daha çok bilgi…</string>
     <string name="ask_beta_link_promo">Hey! Yeni <i>AnySoftKeyboard</i> sürümüne hemen ulaşmak ister misin? O halde şanslısın! <i>BETA</i> kanalı <b>SENİN</b> için açık!\nAşağıdaki linke girip giriş yap ve <i>Google Play-Store</i> ile güncellemeni al!\n\n
-https://play.google.com/apps/testing/com.menny.android.anysoftkeyboard \n\nSürüm yayınlanmadan hataları ayıklamada yardımcı olma isteğin için teşekkürler.</string>
+https://play.google.com/apps/testing/com.mastegoane.android.anysoftkeyboard \n\nSürüm yayınlanmadan hataları ayıklamada yardımcı olma isteğin için teşekkürler.</string>
     <string name="clipboard_fine_select_enabled_toast">Ince-ayar kelime seçimi etkinleştirildi. Sol/sağ yön tuşlarını kullanın.</string>
     <string name="app_shortcut_keyboards_disabled">Klavyeler arası gezinti devre dışı</string>
     <string name="app_shortcut_keyboards_long_label">Kullanılacak klavye düzenlerini seç</string>
@@ -648,6 +648,6 @@ https://play.google.com/apps/testing/com.menny.android.anysoftkeyboard \n\nSür�
     <string name="aosp_light_theme_description">AOSP-Esinlenilmiş açık renkler klavye teması</string>
     <string name="app_share_title">AnySoftKeyboard\'dan merhaba</string>
     <string name="app_share_menu_title">AnySoftKeyboard kullanmayı paylaş</string>
-    <string name="app_share_text">Açık-kaynak, mahremiyet-odaklı, özgür, fazlasıyla kişiselleştirilebilen, çok-dilli Android klavye uygulaması AnySoftKeyboard\'u tavsiye ediyorum.\nEdinebileceğiniz adresler:\nPlay Store: https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard&amp;hl=tr\nF-Droid: https://f-droid.org/tr/packages/com.menny.android.anysoftkeyboard/</string>
+    <string name="app_share_text">Açık-kaynak, mahremiyet-odaklı, özgür, fazlasıyla kişiselleştirilebilen, çok-dilli Android klavye uygulaması AnySoftKeyboard\'u tavsiye ediyorum.\nEdinebileceğiniz adresler:\nPlay Store: https://play.google.com/store/apps/details?id=com.mastegoane.android.anysoftkeyboard&amp;hl=tr\nF-Droid: https://f-droid.org/tr/packages/com.mastegoane.android.anysoftkeyboard/</string>
     <string name="click_me_for_easter_egg_info">Bir şaşırtma için bana tıklayın</string>
 </resources>

@@ -18,7 +18,7 @@ package com.anysoftkeyboard.keyboards;
 
 import android.content.Context;
 import com.anysoftkeyboard.api.KeyCodes;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.Deque;

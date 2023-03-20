@@ -15,7 +15,7 @@ import com.anysoftkeyboard.dictionaries.content.AndroidUserDictionaryTest;
 import com.anysoftkeyboard.dictionaries.sqlite.WordsSQLiteConnection;
 import com.anysoftkeyboard.rx.TestRxSchedulers;
 import com.anysoftkeyboard.test.SharedPrefsHelper;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import org.junit.Assert;
 import org.junit.Test;
 import org.mockito.Mockito;

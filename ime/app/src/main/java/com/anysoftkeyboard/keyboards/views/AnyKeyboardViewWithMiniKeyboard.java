@@ -39,7 +39,7 @@ import com.anysoftkeyboard.keyboards.Keyboard;
 import com.anysoftkeyboard.overlay.OverlayData;
 import com.anysoftkeyboard.prefs.AnimationsLevel;
 import com.anysoftkeyboard.theme.KeyboardTheme;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 
 /**
  * Supports popup keyboard when {@link com.anysoftkeyboard.keyboards.AnyKeyboard.AnyKey} says it has

@@ -548,7 +548,7 @@
     <string name="ask_beta_link_promo">Hei! Haluatko uusia <i>AnySoftKeyboard</i> juttuja nopeammin? Sitten
         olet onnekas! <i>BETA</i>-kanava on  <b>sinun</b> saatavillasi!\nRekisteröidy alla olevasta 
         linkistä ja päivitä <i>Google Play</i> -sovelluskaupassa!\n\n
-        https://play.google.com/apps/testing/com.menny.android.anysoftkeyboard \n\nJa kiitos
+        https://play.google.com/apps/testing/com.mastegoane.android.anysoftkeyboard \n\nJa kiitos
         kun autat bugien tappamisessa, ennen kuin sovellus julkaistaan laajemmalle yleisölle.
     </string>
     <string name="clipboard_fine_select_enabled_toast">Tarkka tekstin valinta käytössä. Käytä vasen/oikeaa nuolta.</string>
@@ -574,6 +574,6 @@
     <string name="aosp_light_theme_description">Vaaleavärinen, AOSP-inspiroitu näppäimistön teema</string>
     <string name="app_share_title">Hei AnySoftKeyboardilta</string>
     <string name="app_share_menu_title">Jaa AnySoftKeyboard…</string>
-    <string name="app_share_text">Saanen suositella avoimen lähdekoodin yksityisyyteen keskittynyttä, ilmaista ja muokattavaa monikielistä Android-näppäimistösovellusta AnySoftKeyboardia.\nHanki täältä:\nPlay-kauppa: https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/</string>
+    <string name="app_share_text">Saanen suositella avoimen lähdekoodin yksityisyyteen keskittynyttä, ilmaista ja muokattavaa monikielistä Android-näppäimistösovellusta AnySoftKeyboardia.\nHanki täältä:\nPlay-kauppa: https://play.google.com/store/apps/details?id=com.mastegoane.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.mastegoane.android.anysoftkeyboard/</string>
     <string name="click_me_for_easter_egg_info">Klikkaa minua, tiedossa yllätys</string>
 </resources>

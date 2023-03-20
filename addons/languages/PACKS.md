@@ -1,6 +1,10 @@
 # Packs in this repository
+# TODO HAROON changed line to be similar to English
+#1. <img src='adiga/apk/flag/flag.svg?sanitize=1' height='16'>&nbsp;Adiga: [Source](adiga) • [Play Store](https://play.google.com/store/apps/details?id=com.anysoftkeyboard.languagepack.adiga)
+1. <img src='adiga/apk/flag/flag.svg?sanitize=1' height='16'>&nbsp;Adiga: [Source](adiga) (not published reason: 'Part of the main AnySoftKeyboard app.')
 1. <img src='afrikaans_oss/apk/flag/flag.svg?sanitize=1' height='16'>&nbsp;Afrikaans_oss: [Source](afrikaans_oss) • [Play Store](https://play.google.com/store/apps/details?id=com.anysoftkeyboard.languagepack.afrikaans_oss)
-1. <img src='arabic/apk/flag/flag.svg?sanitize=1' height='16'>&nbsp;Arabic: [Source](arabic) • [Play Store](https://play.google.com/store/apps/details?id=com.anysoftkeyboard.languagepack.arabic)
+#1. <img src='arabic/apk/flag/flag.svg?sanitize=1' height='16'>&nbsp;Arabic: [Source](arabic) • [Play Store](https://play.google.com/store/apps/details?id=com.anysoftkeyboard.languagepack.arabic)
+1. <img src='arabic/apk/flag/flag.svg?sanitize=1' height='16'>&nbsp;Arabic: [Source](arabic) (not published reason: 'Part of the main AnySoftKeyboard app.')
 1. <img src='armenian2/apk/flag/flag.svg?sanitize=1' height='16'>&nbsp;Armenian2: [Source](armenian2) • [Play Store](https://play.google.com/store/apps/details?id=com.anysoftkeyboard.languagepack.armenian2)
 1. <img src='basque/apk/flag/flag.svg?sanitize=1' height='16'>&nbsp;Basque: [Source](basque) • [Play Store](https://play.google.com/store/apps/details?id=com.anysoftkeyboard.languagepack.basque)
 1. <img src='belarusian/apk/flag/flag.svg?sanitize=1' height='16'>&nbsp;Belarusian: [Source](belarusian) • [Play Store](https://play.google.com/store/apps/details?id=com.anysoftkeyboard.languagepack.belarusian)
@@ -21,7 +25,8 @@
 1. <img src='german/apk/flag/flag.svg?sanitize=1' height='16'>&nbsp;German: [Source](german) • [Play Store](https://play.google.com/store/apps/details?id=com.anysoftkeyboard.languagepack.german)
 1. <img src='greek/apk/flag/flag.svg?sanitize=1' height='16'>&nbsp;Greek: [Source](greek) • [Play Store](https://play.google.com/store/apps/details?id=com.anysoftkeyboard.languagepack.greek)
 1. <img src='hawaiian/apk/flag/flag.svg?sanitize=1' height='16'>&nbsp;Hawaiian: [Source](hawaiian) • [Play Store](https://play.google.com/store/apps/details?id=com.anysoftkeyboard.languagepack.hawaiian)
-1. <img src='hebrew/apk/flag/flag.svg?sanitize=1' height='16'>&nbsp;Hebrew: [Source](hebrew) • [Play Store](https://play.google.com/store/apps/details?id=com.anysoftkeyboard.languagepack.hebrew)
+#1. <img src='hebrew/apk/flag/flag.svg?sanitize=1' height='16'>&nbsp;Hebrew: [Source](hebrew) • [Play Store](https://play.google.com/store/apps/details?id=com.anysoftkeyboard.languagepack.hebrew)
+1. <img src='hebrew/apk/flag/flag.svg?sanitize=1' height='16'>&nbsp;Hebrew: [Source](hebrew) (not published reason: 'Part of the main AnySoftKeyboard app.')
 1. <img src='hindi/apk/flag/flag.svg?sanitize=1' height='16'>&nbsp;Hindi: [Source](hindi) • [Play Store](https://play.google.com/store/apps/details?id=com.anysoftkeyboard.languagepack.hindi)
 1. <img src='hungarian/apk/flag/flag.svg?sanitize=1' height='16'>&nbsp;Hungarian: [Source](hungarian) • [Play Store](https://play.google.com/store/apps/details?id=com.anysoftkeyboard.languagepack.hungarian_oss)
 1. <img src='icelandic/apk/flag/flag.svg?sanitize=1' height='16'>&nbsp;Icelandic: [Source](icelandic) • [Play Store](https://play.google.com/store/apps/details?id=com.anysoftkeyboard.languagepack.icelandic)

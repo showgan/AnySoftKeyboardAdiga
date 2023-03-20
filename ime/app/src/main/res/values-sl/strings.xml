@@ -477,7 +477,7 @@
     <string name="allow_permission">Dovoli</string>
     <string name="turn_off_contacts_dictionary">Izklopi slovar stikov</string>
     <string name="read_more_about_permissions">Več o dovoljenjih …</string>
-    <string name="ask_beta_link_promo">Pozdravljeni! Želite takojšnji dostop do novih značilnosti <i>AnySoftKeyboarda</i>? Imate srečo! Za <b>VAS</b> je sedaj na voljo kanal <i>BETA</i>!\nVpišite se na spodnji povezavi in posodobite program preko <i>Trgovine Google Play</i>!\n\n https://play.google.com/apps/testing/com.menny.android.anysoftkeyboard \n\nHvala za pomoč pri uničevanju hroščev, preden dosežejo javnost.</string>
+    <string name="ask_beta_link_promo">Pozdravljeni! Želite takojšnji dostop do novih značilnosti <i>AnySoftKeyboarda</i>? Imate srečo! Za <b>VAS</b> je sedaj na voljo kanal <i>BETA</i>!\nVpišite se na spodnji povezavi in posodobite program preko <i>Trgovine Google Play</i>!\n\n https://play.google.com/apps/testing/com.mastegoane.android.anysoftkeyboard \n\nHvala za pomoč pri uničevanju hroščev, preden dosežejo javnost.</string>
     <string name="clipboard_fine_select_enabled_toast">Podrobna izbira besedila omogočena. Uporabite puščico levo/desno.</string>
     <string name="app_shortcut_keyboards_disabled">Krmarjenje po tipkovnicah onemogočeno</string>
     <string name="app_shortcut_keyboards_long_label">Izberite razporeditve tipkovnic, ki jih želite uporabiti</string>

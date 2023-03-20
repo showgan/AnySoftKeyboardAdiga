@@ -3,7 +3,7 @@ package com.anysoftkeyboard.quicktextkeys;
 import android.content.Context;
 import android.content.res.Resources;
 import com.anysoftkeyboard.addons.AddOn;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.util.Arrays;
 import java.util.List;
 

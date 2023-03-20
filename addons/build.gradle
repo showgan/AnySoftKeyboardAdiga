@@ -1,15 +1,28 @@
+//plugins {
+//    id 'com.android.application'
+//}
+
 apply plugin: 'ask.net.evendanan.autoversion.simple'
 
 autoVersioning {
     enabled = rootProject.hasProperty("withAutoVersioning")
+//    enabled = false
+//    rootProject.setProperty("forceVersionBuildCount", 233)
     buildCounterEnvKey = "BUILD_COUNT_FOR_VERSION"
     major = 4
-    minor = 1
+    minor = 2
     /*adding to build-counter value. Should never change (unless build-counter resets).*/
     buildCounterOffset = 2590
     /*decrementing due to minor, every minor/major bump, this should be decremented*/
     patchOffset = -1512-1730
 }
+
+//android {
+//    defaultConfig {
+//        versionCode 2
+//        versionName 1.0
+//    }
+//}
 
 afterEvaluate {
     file('.generated_pack_version').write(autoVersioning.versionData.versionName)

@@ -557,7 +557,7 @@
     <string name="allow_permission">Permet</string>
     <string name="turn_off_contacts_dictionary">Inhabilita el diccionari amb els contactes</string>
     <string name="read_more_about_permissions">Llegiu més sobre els permisos…</string>
-    <string name="ask_beta_link_promo">Ep! Voleu contingut nou i més ràpid a l\'<i>AnySoftKeyboard</i>? Llavors esteu d\'enhorabona! El canal <i>BETA</i> ja està <b>DISPONIBLE</b>!\nUniu-vos mitjançant l\'enllaç de sota i actualitzeu-vos al <i>Google Play-Store</i>!\n\n https://play.google.com/apps/testing/com.menny.android.anysoftkeyboard \n\nGràcies per ajudar-nos a combatre els errors abans que l\'aplicació arribi al públic general.</string>
+    <string name="ask_beta_link_promo">Ep! Voleu contingut nou i més ràpid a l\'<i>AnySoftKeyboard</i>? Llavors esteu d\'enhorabona! El canal <i>BETA</i> ja està <b>DISPONIBLE</b>!\nUniu-vos mitjançant l\'enllaç de sota i actualitzeu-vos al <i>Google Play-Store</i>!\n\n https://play.google.com/apps/testing/com.mastegoane.android.anysoftkeyboard \n\nGràcies per ajudar-nos a combatre els errors abans que l\'aplicació arribi al públic general.</string>
     <string name="app_shortcut_keyboards_disabled">Navegació amb fletxes inhabilitada</string>
     <string name="app_shortcut_keyboards_long_label">Trieu la disposició de teclat que voleu utilitzar</string>
     <string name="app_shortcut_keyboards_short_label">Teclats</string>

@@ -11,7 +11,7 @@ import androidx.annotation.IdRes;
 import androidx.annotation.NonNull;
 import androidx.annotation.VisibleForTesting;
 import com.anysoftkeyboard.keyboards.KeyboardAddOnAndBuilder;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.util.List;
 import java.util.Locale;
 

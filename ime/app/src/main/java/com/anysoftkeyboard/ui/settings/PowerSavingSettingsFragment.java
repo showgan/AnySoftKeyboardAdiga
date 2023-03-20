@@ -18,7 +18,7 @@ package com.anysoftkeyboard.ui.settings;
 
 import android.os.Bundle;
 import androidx.preference.PreferenceFragmentCompat;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 
 public class PowerSavingSettingsFragment extends PreferenceFragmentCompat {
 

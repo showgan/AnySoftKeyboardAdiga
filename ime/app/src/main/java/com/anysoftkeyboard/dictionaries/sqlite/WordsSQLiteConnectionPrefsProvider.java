@@ -5,7 +5,7 @@ import androidx.core.util.Pair;
 import com.anysoftkeyboard.dictionaries.DictionaryAddOnAndBuilder;
 import com.anysoftkeyboard.prefs.backup.PrefsProvider;
 import com.anysoftkeyboard.prefs.backup.PrefsRoot;
-import com.menny.android.anysoftkeyboard.AnyApplication;
+import com.mastegoane.android.anysoftkeyboard.AnyApplication;
 import io.reactivex.Observable;
 
 public class WordsSQLiteConnectionPrefsProvider implements PrefsProvider {

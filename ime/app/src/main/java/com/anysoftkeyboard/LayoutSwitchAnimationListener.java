@@ -23,7 +23,7 @@ import android.view.animation.AnimationUtils;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import com.anysoftkeyboard.api.KeyCodes;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 
 public class LayoutSwitchAnimationListener
         implements android.view.animation.Animation.AnimationListener {

@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           xmlns:tools="http://schemas.android.com/tools"
-          package="com.menny.android.anysoftkeyboard">
+          package="com.mastegoane.android.anysoftkeyboard">
 
     <application
         android:name="com.anysoftkeyboard.debug.DebugAnyApplication"

@@ -21,7 +21,7 @@ import android.text.TextUtils;
 import androidx.annotation.CallSuper;
 import androidx.annotation.NonNull;
 import com.anysoftkeyboard.base.utils.Logger;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 
 public abstract class BTreeDictionary extends EditableDictionary {
 

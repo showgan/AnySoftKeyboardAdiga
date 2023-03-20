@@ -29,7 +29,7 @@ import androidx.navigation.fragment.NavHostFragment;
 import androidx.navigation.ui.NavigationUI;
 import com.anysoftkeyboard.android.PermissionRequestHelper;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import net.evendanan.pixel.EdgeEffectHacker;
 import pub.devrel.easypermissions.AfterPermissionGranted;
 

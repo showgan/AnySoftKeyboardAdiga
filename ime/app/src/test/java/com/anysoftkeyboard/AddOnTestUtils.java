@@ -3,7 +3,7 @@ package com.anysoftkeyboard;
 import androidx.test.core.app.ApplicationProvider;
 import com.anysoftkeyboard.addons.AddOn;
 import com.anysoftkeyboard.addons.AddOnsFactory;
-import com.menny.android.anysoftkeyboard.AnyApplication;
+import com.mastegoane.android.anysoftkeyboard.AnyApplication;
 
 public class AddOnTestUtils {
     public static void ensureAddOnAtIndexEnabled(

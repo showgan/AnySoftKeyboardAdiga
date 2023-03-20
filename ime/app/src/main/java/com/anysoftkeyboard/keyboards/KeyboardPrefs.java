@@ -1,12 +1,12 @@
 package com.anysoftkeyboard.keyboards;
 
-import static com.menny.android.anysoftkeyboard.AnyApplication.prefs;
+import static com.mastegoane.android.anysoftkeyboard.AnyApplication.prefs;
 
 import android.content.Context;
 import androidx.annotation.BoolRes;
 import androidx.annotation.NonNull;
 import androidx.annotation.StringRes;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 
 public class KeyboardPrefs {
 

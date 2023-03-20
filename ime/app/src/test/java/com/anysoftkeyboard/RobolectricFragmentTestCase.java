@@ -9,7 +9,7 @@ import androidx.navigation.NavController;
 import androidx.navigation.fragment.NavHostFragment;
 import com.anysoftkeyboard.rx.TestRxSchedulers;
 import com.anysoftkeyboard.ui.settings.MainSettingsActivity;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.util.List;
 import org.junit.Assert;
 import org.junit.runner.RunWith;

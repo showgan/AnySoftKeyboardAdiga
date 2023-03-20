@@ -13,7 +13,7 @@ import androidx.annotation.RequiresApi;
 import androidx.core.view.WindowCompat;
 import com.anysoftkeyboard.base.utils.Logger;
 import com.anysoftkeyboard.rx.GenericOnError;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 
 public abstract class AnySoftKeyboardColorizeNavBar extends AnySoftKeyboardIncognito {
 

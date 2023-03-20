@@ -1,7 +1,7 @@
 package com.anysoftkeyboard.ui.settings.wordseditor;
 
 import com.anysoftkeyboard.RobolectricFragmentTestCase;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 
 public class AbbreviationDictionaryEditorFragmentTest
         extends RobolectricFragmentTestCase<AbbreviationDictionaryEditorFragment> {

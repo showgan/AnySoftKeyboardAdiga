@@ -7,7 +7,7 @@ import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 import androidx.annotation.NonNull;
 import com.anysoftkeyboard.ui.settings.MainSettingsActivity;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 
 public class WizardPageSwitchToKeyboardFragment extends WizardPageBaseFragment {
 

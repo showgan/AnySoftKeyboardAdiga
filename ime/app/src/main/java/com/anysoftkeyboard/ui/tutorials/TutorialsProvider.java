@@ -27,8 +27,8 @@ import androidx.core.content.ContextCompat;
 import com.anysoftkeyboard.base.utils.CompatUtils;
 import com.anysoftkeyboard.base.utils.Logger;
 import com.anysoftkeyboard.prefs.DirectBootAwareSharedPreferences;
-import com.menny.android.anysoftkeyboard.BuildConfig;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.BuildConfig;
+import com.mastegoane.android.anysoftkeyboard.R;
 
 public class TutorialsProvider {
     private static final String TAG = "ASKTutorial";

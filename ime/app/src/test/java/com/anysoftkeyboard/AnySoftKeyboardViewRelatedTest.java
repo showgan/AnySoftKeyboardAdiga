@@ -10,7 +10,7 @@ import androidx.test.core.app.ApplicationProvider;
 import com.anysoftkeyboard.api.KeyCodes;
 import com.anysoftkeyboard.ime.InputViewBinder;
 import com.anysoftkeyboard.utils.GeneralDialogTestUtil;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;

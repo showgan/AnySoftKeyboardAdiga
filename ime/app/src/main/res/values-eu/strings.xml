@@ -573,7 +573,7 @@
     <string name="allow_permission">Baimendu</string>
     <string name="turn_off_contacts_dictionary">Desgaitu kontaktuen hiztegia</string>
     <string name="read_more_about_permissions">Irakurri gehiago baimenei buruz…</string>
-    <string name="ask_beta_link_promo">Adi! <i>AnySoftKeyboard</i> teklatuaren berritasunak azkarrago lortu nahi dituzu? Zorionekoa zu, <i>BETA</i> kanala eskuragarri baitago <b>ZURETZAT</b>!\nEman izena beheko loturan eta eguneratu <i>Google Play-Store</i> bidez!\n\nhttps://play.google.com/apps/testing/com.menny.android.anysoftkeyboard \n\nEta eskerrik asko publikora zabaldu aurretik akatsak konpontzen laguntzeagatik.    </string>
+    <string name="ask_beta_link_promo">Adi! <i>AnySoftKeyboard</i> teklatuaren berritasunak azkarrago lortu nahi dituzu? Zorionekoa zu, <i>BETA</i> kanala eskuragarri baitago <b>ZURETZAT</b>!\nEman izena beheko loturan eta eguneratu <i>Google Play-Store</i> bidez!\n\nhttps://play.google.com/apps/testing/com.mastegoane.android.anysoftkeyboard \n\nEta eskerrik asko publikora zabaldu aurretik akatsak konpontzen laguntzeagatik.    </string>
     <string name="clipboard_fine_select_enabled_toast">Testuaren hautaketa fina gaitu da. Erabili ezker/eskuin geziak.</string>
     <string name="app_shortcut_keyboards_disabled">Teklatuen nabigazioa desgaituta</string>
     <string name="app_shortcut_keyboards_long_label">Aukeratu erabiliko diten teklatu disposizioak</string>
@@ -649,6 +649,6 @@
     <string name="aosp_light_theme_description">AOSP-n inspiratutako kolore argietako teklatu azala</string>
     <string name="app_share_title">Kaixo AnySoftKeyboard-etik</string>
     <string name="app_share_menu_title">Partekatu anySoftKeyboard honen bidez</string>
-    <string name="app_share_text">Pribatutasuna aintzat duen hizkuntza askotarako Android teklatu aplikazio libre doako eta pertsonalizagarri hau aholkatzen dizut.\nEskuratu hemen:\nPlay Store: https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/</string>
+    <string name="app_share_text">Pribatutasuna aintzat duen hizkuntza askotarako Android teklatu aplikazio libre doako eta pertsonalizagarri hau aholkatzen dizut.\nEskuratu hemen:\nPlay Store: https://play.google.com/store/apps/details?id=com.mastegoane.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.mastegoane.android.anysoftkeyboard/</string>
     <string name="click_me_for_easter_egg_info">sakatu sorpresa baterako</string>
 </resources>

@@ -3,7 +3,7 @@ package com.anysoftkeyboard.theme;
 import static androidx.test.core.app.ApplicationProvider.getApplicationContext;
 
 import com.anysoftkeyboard.AnySoftKeyboardRobolectricTestRunner;
-import com.menny.android.anysoftkeyboard.AnyApplication;
+import com.mastegoane.android.anysoftkeyboard.AnyApplication;
 import io.reactivex.disposables.Disposable;
 import java.util.concurrent.atomic.AtomicReference;
 import org.junit.Assert;

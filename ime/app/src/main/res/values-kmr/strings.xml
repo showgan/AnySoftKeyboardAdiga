@@ -696,7 +696,7 @@
     <string name="ask_beta_link_promo">Hey! Dixwazî tiştên nû <i>AnySoftKeyboard</i> zûtir bikî? Piştre
         tu di bextê xwe de yî! <i>BETA</i> niha ji bo <b>YOU</b>!\nTenê li ser tomar bike
         lînka jêrîn, û bi rêya <i>Google Play</i> app store!\n\n rojane bike
-        https://play.google.com/apps/testing/com.menny.android.anysoftkeyboard \n\nÛ Spas ji bo
+        https://play.google.com/apps/testing/com.mastegoane.android.anysoftkeyboard \n\nÛ Spas ji bo
         berî ku bigihîjin gel, alîkariya kuştina kêzikan dikin.</string>
     <string name="clipboard_fine_select_enabled_toast">Bijartina-nivîsar çalak e. Tîrên çep/rast bi kar bîne.</string>
     <string name="app_shortcut_keyboards_disabled">Navîgasyona klavyeyê neçalak e</string>
@@ -782,7 +782,7 @@
     <string name="aosp_light_theme_description">Tema klavyeya rengên ronahiyê a AOSP</string>
     <string name="app_share_title">Silav ji AnySoftKeyboard</string>
     <string name="app_share_menu_title">Bikaranîna AnySoftKeyboard parve bike</string>
-    <string name="app_share_text">Bila ez pêşniyara çavkaniya vekirî, nepenî-fokus, belaş, pir taybetmendî, pir zimanî Android keyboard app AnySoftKeyboard.\nGet it from:\nPlay Store: https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/</string>
+    <string name="app_share_text">Bila ez pêşniyara çavkaniya vekirî, nepenî-fokus, belaş, pir taybetmendî, pir zimanî Android keyboard app AnySoftKeyboard.\nGet it from:\nPlay Store: https://play.google.com/store/apps/details?id=com.mastegoane.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.mastegoane.android.anysoftkeyboard/</string>
     <string name="click_me_for_easter_egg_info">ji bo surprîzekê bitikîne</string>
     <string name="backup_restore_not_support_before_kitkat">Li ser Android-ya we nayê piştgirî kirin</string>
     <string name="backup_restore_not_support_before_kitkat_message">Ji bo cîhazên ku berê KitKat-ê (guhertoya 4.4) OS-ya Android-ê dixebitînin, paşvekêşandin û vegerandin nayê piştgirî kirin. Bibore.</string>

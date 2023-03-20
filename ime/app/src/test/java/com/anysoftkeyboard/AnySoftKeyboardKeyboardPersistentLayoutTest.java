@@ -9,7 +9,7 @@ import android.view.inputmethod.EditorInfo;
 import android.view.inputmethod.InputMethod;
 import androidx.annotation.Nullable;
 import com.anysoftkeyboard.api.KeyCodes;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;

@@ -23,7 +23,7 @@ import androidx.autofill.inline.v1.InlineSuggestionUi;
 import com.anysoftkeyboard.base.utils.Logger;
 import com.anysoftkeyboard.keyboards.views.AnyKeyboardView;
 import com.anysoftkeyboard.keyboards.views.KeyboardViewContainerView;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;

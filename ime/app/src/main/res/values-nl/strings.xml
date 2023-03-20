@@ -583,7 +583,7 @@ woordenlijst
     <string name="allow_permission">Sta toe</string>
     <string name="turn_off_contacts_dictionary">Schakel woordenlijst van contact uit</string>
     <string name="read_more_about_permissions">Lees meer over rechten…</string>
-    <string name="ask_beta_link_promo">Hallo! Wilt u sneller nieuwe functionaliteit van <i>AnySoftKeyboard</i>? Dan heeft u geluk! Het <i>BÉTA</i>-kanaal is nu beschikbaar voor <b>U</b>!\nMeld u aan via onderstaande link en updates komen via <i>Google Play-Store</i>!\n\n https://play.google.com/apps/testing/com.menny.android.anysoftkeyboard \n\nBedankt voor het helpen om bugs op te lossen voordat die bij het grote publiek komen.</string>
+    <string name="ask_beta_link_promo">Hallo! Wilt u sneller nieuwe functionaliteit van <i>AnySoftKeyboard</i>? Dan heeft u geluk! Het <i>BÉTA</i>-kanaal is nu beschikbaar voor <b>U</b>!\nMeld u aan via onderstaande link en updates komen via <i>Google Play-Store</i>!\n\n https://play.google.com/apps/testing/com.mastegoane.android.anysoftkeyboard \n\nBedankt voor het helpen om bugs op te lossen voordat die bij het grote publiek komen.</string>
     <string name="clipboard_fine_select_enabled_toast">Nauwkeurige tekstselectie ingeschakeld. Gebruik pijltjes links/rechts.</string>
     <string name="app_shortcut_keyboards_disabled">Toetsenbordennavigatie uitgeschakeld</string>
     <string name="app_shortcut_keyboards_long_label">Kies toetsenboordindeling om te gebruiken</string>

@@ -33,8 +33,8 @@ import com.anysoftkeyboard.rx.GenericOnError;
 import com.anysoftkeyboard.rx.RxSchedulers;
 import com.anysoftkeyboard.theme.KeyboardTheme;
 import com.github.karczews.rxbroadcastreceiver.RxBroadcastReceivers;
-import com.menny.android.anysoftkeyboard.AnyApplication;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.AnyApplication;
+import com.mastegoane.android.anysoftkeyboard.R;
 import io.reactivex.Observable;
 import io.reactivex.subjects.PublishSubject;
 

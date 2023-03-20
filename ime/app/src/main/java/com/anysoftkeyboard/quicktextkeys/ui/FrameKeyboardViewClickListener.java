@@ -6,7 +6,7 @@ import android.view.View;
 import com.anysoftkeyboard.api.KeyCodes;
 import com.anysoftkeyboard.keyboards.views.OnKeyboardActionListener;
 import com.anysoftkeyboard.ui.settings.MainSettingsActivity;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 
 /*package*/ class FrameKeyboardViewClickListener implements View.OnClickListener {
     private final OnKeyboardActionListener mKeyboardActionListener;

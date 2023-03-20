@@ -3,7 +3,7 @@ import java.util.stream.Collectors
 
 group 'net.evendanan'
 
-ext.override_app_id = 'com.menny.android.anysoftkeyboard'
+ext.override_app_id = 'com.mastegoane.android.anysoftkeyboard'
 ext.shouldBePublished = true
 ext.override_release_key_alias = 'anysoftkeyboard'
 ext.closedTestingTrackName = 'alpha'
@@ -94,6 +94,9 @@ dependencies {
     implementation project(':api')
     implementation project(':addons:base')
     implementation project(':addons:languages:english:pack')
+    implementation project(':addons:languages:adiga:pack')
+    implementation project(':addons:languages:arabic:pack')
+    implementation project(':addons:languages:hebrew:pack')
     implementation project(':ime:base')
     implementation project(':ime:base-rx')
     implementation project(':ime:nextword')

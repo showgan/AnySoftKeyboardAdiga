@@ -7,7 +7,7 @@ import static org.junit.Assert.assertTrue;
 
 import android.text.TextUtils;
 import com.anysoftkeyboard.AnySoftKeyboardRobolectricTestRunner;
-import com.menny.android.anysoftkeyboard.AnyApplication;
+import com.mastegoane.android.anysoftkeyboard.AnyApplication;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;

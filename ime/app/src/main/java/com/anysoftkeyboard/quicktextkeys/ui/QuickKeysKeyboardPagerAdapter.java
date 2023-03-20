@@ -18,7 +18,7 @@ import com.anysoftkeyboard.quicktextkeys.QuickTextKey;
 import com.anysoftkeyboard.theme.KeyboardTheme;
 import com.anysoftkeyboard.ui.ScrollViewWithDisable;
 import com.anysoftkeyboard.ui.ViewPagerWithDisable;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.util.List;
 
 /*package*/ class QuickKeysKeyboardPagerAdapter extends PagerAdapter {

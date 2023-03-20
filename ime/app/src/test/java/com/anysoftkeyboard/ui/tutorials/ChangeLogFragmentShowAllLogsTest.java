@@ -4,7 +4,7 @@ import android.graphics.Paint;
 import androidx.recyclerview.widget.RecyclerView;
 import com.anysoftkeyboard.AnySoftKeyboardRobolectricTestRunner;
 import com.anysoftkeyboard.RobolectricFragmentTestCase;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.util.List;
 import org.junit.Assert;
 import org.junit.Ignore;

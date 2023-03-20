@@ -42,8 +42,8 @@ import com.anysoftkeyboard.keyboards.Keyboard.Row;
 import com.anysoftkeyboard.prefs.AnimationsLevel;
 import com.anysoftkeyboard.rx.GenericOnError;
 import com.anysoftkeyboard.theme.KeyboardTheme;
-import com.menny.android.anysoftkeyboard.AnyApplication;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.AnyApplication;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.util.ArrayList;
 import java.util.List;
 

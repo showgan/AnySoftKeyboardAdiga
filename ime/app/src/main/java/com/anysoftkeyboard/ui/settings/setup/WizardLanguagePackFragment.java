@@ -7,8 +7,8 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import com.anysoftkeyboard.prefs.DirectBootAwareSharedPreferences;
 import com.anysoftkeyboard.ui.settings.widget.AddOnStoreSearchView;
-import com.menny.android.anysoftkeyboard.AnyApplication;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.AnyApplication;
+import com.mastegoane.android.anysoftkeyboard.R;
 
 public class WizardLanguagePackFragment extends WizardPageBaseFragment {
 

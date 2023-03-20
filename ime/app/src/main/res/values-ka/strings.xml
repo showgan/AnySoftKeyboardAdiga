@@ -705,7 +705,7 @@
     <string name="ask_beta_link_promo">ჰეი! გსურთ ახალი <i>AnySoftKeyboard</i> მალევე მიიღოთ? მაშინ
         გაგიმართლათ! <i>BETA</i> არხი უკვე ხელმისაწვდომია  <b>თქვენთვის</b>!\nშექმენით ანგარიში
         ქვემოთ ბმულზე და განაახლეთ <i>Google Play</i> მაღაზიიდან!\n\n
-        https://play.google.com/apps/testing/com.menny.android.anysoftkeyboard \n\nწინასწარ გმადლობთ,
+        https://play.google.com/apps/testing/com.mastegoane.android.anysoftkeyboard \n\nწინასწარ გმადლობთ,
         ხარვეზების აღმოჩენაში დახმარებისთვის, საბოლოო ვერსიის გამოსვლამდე.
     </string>
     <string name="clipboard_fine_select_enabled_toast">ტექსტის უკეთ მონიშვნა ჩართულია. გამოიყენეთ მარჯვენა/მარცხენა ისრები.</string>
@@ -792,7 +792,7 @@
     <string name="aosp_light_theme_description">კლავიატურის იერსახე, AOSP-ის ნათელი ფერებით</string>
     <string name="app_share_title">მოგესალმებათ AnySoftKeyboard</string>
     <string name="app_share_menu_title">გააზიარეთ AnySoftKeyboard</string>
-    <string name="app_share_text">მსურს შემოგთავაზოთ ღია წყაროს მქონე, პირადულობის უზრუნველმყოფი,  თავისუფალი, მორგების უამრავი შესაძლებლობით, მრავალენოვანი Android-კლავიატურის აპი AnySoftKeyboard.\nგადმოსაწერად იხილეთ:\nPlay Store: https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/</string>
+    <string name="app_share_text">მსურს შემოგთავაზოთ ღია წყაროს მქონე, პირადულობის უზრუნველმყოფი,  თავისუფალი, მორგების უამრავი შესაძლებლობით, მრავალენოვანი Android-კლავიატურის აპი AnySoftKeyboard.\nგადმოსაწერად იხილეთ:\nPlay Store: https://play.google.com/store/apps/details?id=com.mastegoane.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.mastegoane.android.anysoftkeyboard/</string>
     <string name="click_me_for_easter_egg_info">დაწკაპკეთ სასიამოვნო მოულოდნელობისთვის</string>
     <string name="backup_restore_not_support_before_kitkat">თქვენი Android მხარდაუჭერელია</string>
     <string name="backup_restore_not_support_before_kitkat_message">დამარქაფება და აღდგენა მხარდაჭერილია KitKat (4.4 ვერსიის) ან უფრო ახალ Android-ზე. ვწუხვართ.</string>

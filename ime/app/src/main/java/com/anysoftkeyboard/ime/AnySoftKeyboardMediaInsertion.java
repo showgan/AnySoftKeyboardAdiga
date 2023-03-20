@@ -14,7 +14,7 @@ import com.anysoftkeyboard.remote.InsertionRequestCallback;
 import com.anysoftkeyboard.remote.MediaType;
 import com.anysoftkeyboard.remote.RemoteInsertion;
 import com.anysoftkeyboard.remote.RemoteInsertionImpl;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashSet;

@@ -2,5 +2,5 @@ Teclado e layout Português para o AnySoftKeyboard.
 
 O dicionário é o disponibilizado no AOSP.
 
-Instale [[com.menny.android.anysoftkeyboard]] primeiro, e seleccione a língua
+Instale [[com.mastegoane.android.anysoftkeyboard]] primeiro, e seleccione a língua
 no menu "Configurações->Teclados".

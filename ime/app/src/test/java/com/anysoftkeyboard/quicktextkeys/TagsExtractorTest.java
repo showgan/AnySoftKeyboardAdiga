@@ -9,7 +9,7 @@ import com.anysoftkeyboard.dictionaries.KeyCodesProvider;
 import com.anysoftkeyboard.keyboards.AnyKeyboard;
 import com.anysoftkeyboard.keyboards.Keyboard;
 import com.anysoftkeyboard.rx.TestRxSchedulers;
-import com.menny.android.anysoftkeyboard.AnyApplication;
+import com.mastegoane.android.anysoftkeyboard.AnyApplication;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

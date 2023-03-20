@@ -28,9 +28,9 @@ import com.anysoftkeyboard.base.utils.Logger;
 import com.anysoftkeyboard.keyboards.AnyKeyboard;
 import com.anysoftkeyboard.keyboards.KeyboardFactory;
 import com.anysoftkeyboard.prefs.DirectBootAwareSharedPreferences;
-import com.menny.android.anysoftkeyboard.AnyApplication;
-import com.menny.android.anysoftkeyboard.BuildConfig;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.AnyApplication;
+import com.mastegoane.android.anysoftkeyboard.BuildConfig;
+import com.mastegoane.android.anysoftkeyboard.R;
 import io.reactivex.Observable;
 import java.util.ArrayList;
 import java.util.List;
@@ -55,8 +55,8 @@ public class ExternalDictionaryFactory extends AddOnsFactory<DictionaryAddOnAndB
                 context,
                 DirectBootAwareSharedPreferences.create(context),
                 TAG,
-                "com.menny.android.anysoftkeyboard.DICTIONARY",
-                "com.menny.android.anysoftkeyboard.dictionaries",
+                "com.mastegoane.android.anysoftkeyboard.DICTIONARY",
+                "com.mastegoane.android.anysoftkeyboard.dictionaries",
                 "Dictionaries",
                 "Dictionary",
                 "dictionary_",

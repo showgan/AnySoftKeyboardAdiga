@@ -9,7 +9,7 @@ import com.anysoftkeyboard.AnySoftKeyboardRobolectricTestRunner;
 import com.anysoftkeyboard.MyShadowPaint;
 import com.anysoftkeyboard.addons.DefaultAddOn;
 import com.anysoftkeyboard.utils.EmojiUtils;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import emoji.utils.JavaEmojiUtils;
 import org.junit.Assert;
 import org.junit.Ignore;

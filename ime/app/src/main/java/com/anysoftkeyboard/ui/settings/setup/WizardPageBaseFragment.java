@@ -14,7 +14,7 @@ import androidx.core.widget.NestedScrollView;
 import androidx.fragment.app.Fragment;
 import com.anysoftkeyboard.android.PermissionRequestHelper;
 import com.anysoftkeyboard.prefs.DirectBootAwareSharedPreferences;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 
 public abstract class WizardPageBaseFragment extends Fragment {
 

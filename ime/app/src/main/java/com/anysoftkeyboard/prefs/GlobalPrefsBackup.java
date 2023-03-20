@@ -14,7 +14,7 @@ import com.anysoftkeyboard.prefs.backup.PrefItem;
 import com.anysoftkeyboard.prefs.backup.PrefsProvider;
 import com.anysoftkeyboard.prefs.backup.PrefsRoot;
 import com.anysoftkeyboard.prefs.backup.PrefsXmlStorage;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import io.reactivex.Observable;
 import io.reactivex.functions.BiConsumer;
 import io.reactivex.functions.Function;

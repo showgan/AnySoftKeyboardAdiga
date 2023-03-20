@@ -13,7 +13,7 @@ import android.widget.inline.InlineContentView;
 import androidx.core.util.Pair;
 import com.anysoftkeyboard.AnySoftKeyboardBaseTest;
 import com.anysoftkeyboard.AnySoftKeyboardRobolectricTestRunner;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.util.Arrays;
 import java.util.function.Consumer;
 import java.util.stream.Collectors;

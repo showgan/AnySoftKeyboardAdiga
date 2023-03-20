@@ -21,7 +21,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.preference.PreferenceFragmentCompat;
 import com.anysoftkeyboard.android.NightMode;
 import com.anysoftkeyboard.rx.GenericOnError;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import io.reactivex.disposables.Disposable;
 import io.reactivex.disposables.Disposables;
 

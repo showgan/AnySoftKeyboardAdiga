@@ -1,9 +1,9 @@
 package com.anysoftkeyboard.dictionaries;
 
 import static androidx.test.core.app.ApplicationProvider.getApplicationContext;
-import static com.menny.android.anysoftkeyboard.R.array.english_initial_suggestions;
-import static com.menny.android.anysoftkeyboard.R.integer.anysoftkeyboard_api_version_code;
-import static com.menny.android.anysoftkeyboard.R.xml.english_autotext;
+import static com.mastegoane.android.anysoftkeyboard.R.array.english_initial_suggestions;
+import static com.mastegoane.android.anysoftkeyboard.R.integer.anysoftkeyboard_api_version_code;
+import static com.mastegoane.android.anysoftkeyboard.R.xml.english_autotext;
 
 import androidx.annotation.NonNull;
 import com.anysoftkeyboard.AnySoftKeyboardRobolectricTestRunner;
@@ -11,7 +11,7 @@ import com.anysoftkeyboard.dictionaries.content.ContactsDictionary;
 import com.anysoftkeyboard.nextword.NextWordSuggestions;
 import com.anysoftkeyboard.rx.TestRxSchedulers;
 import com.anysoftkeyboard.test.SharedPrefsHelper;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;

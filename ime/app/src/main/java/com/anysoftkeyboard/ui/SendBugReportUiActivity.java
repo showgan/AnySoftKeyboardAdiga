@@ -25,8 +25,8 @@ import androidx.fragment.app.FragmentActivity;
 import com.anysoftkeyboard.base.utils.Logger;
 import com.anysoftkeyboard.chewbacca.BugReportDetails;
 import com.anysoftkeyboard.fileprovider.LocalProxy;
-import com.menny.android.anysoftkeyboard.BuildConfig;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.BuildConfig;
+import com.mastegoane.android.anysoftkeyboard.R;
 import io.reactivex.disposables.Disposable;
 import io.reactivex.disposables.Disposables;
 

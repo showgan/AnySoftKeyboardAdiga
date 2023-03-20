@@ -8,7 +8,7 @@ import com.anysoftkeyboard.android.PowerSaving;
 import com.anysoftkeyboard.overlay.OverlayData;
 import com.anysoftkeyboard.overlay.OverlyDataCreator;
 import com.anysoftkeyboard.rx.GenericOnError;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.util.List;
 
 public abstract class AnySoftKeyboardPowerSaving extends AnySoftKeyboardNightMode {

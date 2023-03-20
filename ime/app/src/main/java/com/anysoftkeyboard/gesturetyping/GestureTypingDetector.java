@@ -7,7 +7,7 @@ import com.anysoftkeyboard.base.utils.Logger;
 import com.anysoftkeyboard.dictionaries.Dictionary;
 import com.anysoftkeyboard.keyboards.Keyboard;
 import com.anysoftkeyboard.rx.RxSchedulers;
-import com.menny.android.anysoftkeyboard.BuildConfig;
+import com.mastegoane.android.anysoftkeyboard.BuildConfig;
 import io.reactivex.Observable;
 import io.reactivex.Single;
 import io.reactivex.disposables.Disposable;

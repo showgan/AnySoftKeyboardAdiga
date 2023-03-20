@@ -34,7 +34,7 @@ import android.widget.FrameLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import com.anysoftkeyboard.base.utils.Logger;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 
 public class AddOnStoreSearchView extends FrameLayout implements OnClickListener {
     private static final String TAG = "AddOnStoreSearchView";

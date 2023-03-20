@@ -44,8 +44,8 @@ import com.anysoftkeyboard.quicktextkeys.QuickKeyHistoryRecords;
 import com.anysoftkeyboard.quicktextkeys.TagsExtractor;
 import com.anysoftkeyboard.remote.RemoteInsertion;
 import com.anysoftkeyboard.rx.TestRxSchedulers;
-import com.menny.android.anysoftkeyboard.R;
-import com.menny.android.anysoftkeyboard.SoftKeyboard;
+import com.mastegoane.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.SoftKeyboard;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
@@ -85,7 +85,7 @@ public class TestableAnySoftKeyboard extends SoftKeyboard {
 
     public static EditorInfo createEditorInfo(final int imeOptions, final int inputType) {
         EditorInfo editorInfo = new EditorInfo();
-        editorInfo.packageName = "com.menny.android.anysoftkeyboard";
+        editorInfo.packageName = "com.mastegoane.android.anysoftkeyboard";
         editorInfo.imeOptions = imeOptions;
         editorInfo.inputType = inputType;
 

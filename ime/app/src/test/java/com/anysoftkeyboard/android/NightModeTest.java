@@ -1,8 +1,8 @@
 package com.anysoftkeyboard.android;
 
 import static androidx.test.core.app.ApplicationProvider.getApplicationContext;
-import static com.menny.android.anysoftkeyboard.R.bool.settings_default_false;
-import static com.menny.android.anysoftkeyboard.R.string.settings_key_power_save_mode_sound_control;
+import static com.mastegoane.android.anysoftkeyboard.R.bool.settings_default_false;
+import static com.mastegoane.android.anysoftkeyboard.R.string.settings_key_power_save_mode_sound_control;
 
 import android.app.Service;
 import android.content.Context;
@@ -14,8 +14,8 @@ import androidx.test.core.app.ApplicationProvider;
 import com.anysoftkeyboard.AnySoftKeyboardRobolectricTestRunner;
 import com.anysoftkeyboard.rx.TestRxSchedulers;
 import com.anysoftkeyboard.test.SharedPrefsHelper;
-import com.menny.android.anysoftkeyboard.AnyApplication;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.AnyApplication;
+import com.mastegoane.android.anysoftkeyboard.R;
 import io.reactivex.Observable;
 import io.reactivex.disposables.Disposable;
 import java.util.concurrent.atomic.AtomicBoolean;

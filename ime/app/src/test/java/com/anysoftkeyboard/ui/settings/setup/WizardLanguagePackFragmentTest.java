@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.ImageView;
 import androidx.annotation.NonNull;
 import androidx.test.core.app.ApplicationProvider;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.util.Locale;
 import org.junit.After;
 import org.junit.Assert;

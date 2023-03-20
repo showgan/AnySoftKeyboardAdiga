@@ -8,7 +8,7 @@ import androidx.annotation.Nullable;
 import com.anysoftkeyboard.base.utils.Logger;
 import com.anysoftkeyboard.prefs.DirectBootAwareSharedPreferences;
 import com.anysoftkeyboard.quicktextkeys.QuickTextKey;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.util.List;
 
 /*package*/ class QuickTextUserPrefs {

@@ -9,7 +9,7 @@ import com.anysoftkeyboard.prefs.backup.PrefItem;
 import com.anysoftkeyboard.prefs.backup.PrefsProvider;
 import com.anysoftkeyboard.prefs.backup.PrefsRoot;
 import com.anysoftkeyboard.test.TestUtils;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.nio.file.Files;

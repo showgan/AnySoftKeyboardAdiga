@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.menny.android.anysoftkeyboard">
+    package="com.mastegoane.android.anysoftkeyboard">
 
     <supports-screens
         android:anyDensity="true"
@@ -28,7 +28,7 @@
         android:required="false" />
 
     <application
-        android:name=".AnyApplication"
+        android:name="com.mastegoane.android.anysoftkeyboard.AnyApplication"
         android:hardwareAccelerated="true"
         android:icon="@mipmap/ic_launcher"
         android:installLocation="internalOnly"
@@ -49,7 +49,7 @@
 
         <!-- this is the IME with the pointer to the settings ui (xml/method) -->
         <service
-            android:name=".SoftKeyboard"
+            android:name="com.mastegoane.android.anysoftkeyboard.SoftKeyboard"
             android:label="@string/ime_name"
             android:exported="true"
             android:directBootAware="true"
@@ -69,7 +69,7 @@
         I use this, so I can 'disable' this activity at runtime, and so remove ASK from the launcher's icons -->
         <activity
             android:exported="true"
-            android:name="com.menny.android.anysoftkeyboard.LauncherSettingsActivity"
+            android:name="com.mastegoane.android.anysoftkeyboard.LauncherSettingsActivity"
             android:icon="@mipmap/ic_launcher"
             android:label="@string/ime_name"
             android:launchMode="singleTop"
@@ -131,11 +131,11 @@
 
         <!-- keyboards -->
         <intent>
-            <action android:name="com.menny.android.anysoftkeyboard.KEYBOARD" />
+            <action android:name="com.mastegoane.android.anysoftkeyboard.KEYBOARD" />
         </intent>
         <!-- dictionaries -->
         <intent>
-            <action android:name="com.menny.android.anysoftkeyboard.DICTIONARY" />
+            <action android:name="com.mastegoane.android.anysoftkeyboard.DICTIONARY" />
         </intent>
         <!-- extension-keyboard (rows) -->
         <intent>

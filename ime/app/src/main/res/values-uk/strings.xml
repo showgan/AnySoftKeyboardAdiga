@@ -547,7 +547,7 @@
     <string name="allow_permission">Дозволити</string>
     <string name="turn_off_contacts_dictionary">Вимкнути словник Контакти</string>
     <string name="read_more_about_permissions">Прочитати більше про дозволи…</string>
-    <string name="ask_beta_link_promo">Гей! Хочеш швидше отримувати нові функції <i>AnySoftKeyboard</i>? Тоді тобі пощастило! Канал <i>BETA</i> просто створено для <b>ТЕБЕ</b>!\пПросто зареєструйся за посиланням нижче та онови через <i>Google Play Маркет</i>!\n\nhttps://play.google.com/apps/testing/com.menny.android.anysoftkeyboard\n\nІ дякуємо за допомогу в усуненні помилок перед переходом нововведень в реліз.</string>
+    <string name="ask_beta_link_promo">Гей! Хочеш швидше отримувати нові функції <i>AnySoftKeyboard</i>? Тоді тобі пощастило! Канал <i>BETA</i> просто створено для <b>ТЕБЕ</b>!\пПросто зареєструйся за посиланням нижче та онови через <i>Google Play Маркет</i>!\n\nhttps://play.google.com/apps/testing/com.mastegoane.android.anysoftkeyboard\n\nІ дякуємо за допомогу в усуненні помилок перед переходом нововведень в реліз.</string>
     <string name="clipboard_fine_select_enabled_toast">Виділення тексту активовано. Використовуйте стрілки вліво/вправо.</string>
     <string name="app_shortcut_keyboards_disabled">Навігацію по клавіатурах відключено</string>
     <string name="app_shortcut_keyboards_long_label">Виберіть розкладку клавіатури</string>

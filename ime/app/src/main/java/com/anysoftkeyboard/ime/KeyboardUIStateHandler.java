@@ -4,7 +4,7 @@ import android.os.Handler;
 import android.os.Looper;
 import android.os.Message;
 import android.view.inputmethod.InputConnection;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.lang.ref.WeakReference;
 
 /** handles all kind of UI thread related operations. */

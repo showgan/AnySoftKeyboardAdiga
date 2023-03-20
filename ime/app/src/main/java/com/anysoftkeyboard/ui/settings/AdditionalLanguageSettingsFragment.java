@@ -23,7 +23,7 @@ import androidx.annotation.Nullable;
 import androidx.navigation.Navigation;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceFragmentCompat;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 
 public class AdditionalLanguageSettingsFragment extends PreferenceFragmentCompat
         implements Preference.OnPreferenceClickListener {

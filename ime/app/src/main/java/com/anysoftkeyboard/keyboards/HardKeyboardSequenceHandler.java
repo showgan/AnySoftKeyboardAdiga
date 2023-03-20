@@ -22,7 +22,7 @@ import com.anysoftkeyboard.api.KeyCodes;
 import com.anysoftkeyboard.base.utils.Logger;
 import com.anysoftkeyboard.ime.AnySoftKeyboardBase;
 import com.anysoftkeyboard.keyboards.KeyEventStateMachine.State;
-import com.menny.android.anysoftkeyboard.BuildConfig;
+import com.mastegoane.android.anysoftkeyboard.BuildConfig;
 import java.security.InvalidParameterException;
 
 public class HardKeyboardSequenceHandler {

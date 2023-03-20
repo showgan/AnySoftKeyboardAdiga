@@ -23,7 +23,7 @@ import com.anysoftkeyboard.RobolectricFragmentTestCase;
 import com.anysoftkeyboard.prefs.GlobalPrefsBackup;
 import com.anysoftkeyboard.rx.TestRxSchedulers;
 import com.anysoftkeyboard.utils.GeneralDialogTestUtil;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import io.reactivex.Observable;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

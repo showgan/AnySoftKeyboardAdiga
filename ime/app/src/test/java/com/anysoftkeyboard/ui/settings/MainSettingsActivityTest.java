@@ -22,7 +22,7 @@ import com.anysoftkeyboard.android.PermissionRequestHelper;
 import com.anysoftkeyboard.quicktextkeys.ui.QuickTextKeysBrowseFragment;
 import com.anysoftkeyboard.rx.TestRxSchedulers;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;

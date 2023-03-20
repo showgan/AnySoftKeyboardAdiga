@@ -23,7 +23,7 @@ import com.anysoftkeyboard.LayoutSwitchAnimationListener;
 import com.anysoftkeyboard.api.KeyCodes;
 import com.anysoftkeyboard.prefs.AnimationsLevel;
 import com.anysoftkeyboard.rx.GenericOnError;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import io.reactivex.functions.Consumer;
 
 public abstract class AnySoftKeyboardSwipeListener extends AnySoftKeyboardPopText {

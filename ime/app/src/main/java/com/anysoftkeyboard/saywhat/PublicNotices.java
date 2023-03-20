@@ -3,7 +3,7 @@ package com.anysoftkeyboard.saywhat;
 import android.view.inputmethod.EditorInfo;
 import com.anysoftkeyboard.AnySoftKeyboard;
 import com.anysoftkeyboard.keyboards.Keyboard;
-import com.menny.android.anysoftkeyboard.AnyApplication;
+import com.mastegoane.android.anysoftkeyboard.AnyApplication;
 import java.util.ArrayList;
 import java.util.List;
 

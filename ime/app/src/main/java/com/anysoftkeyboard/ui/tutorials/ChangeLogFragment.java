@@ -33,7 +33,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.anysoftkeyboard.ui.settings.MainFragment;
 import com.anysoftkeyboard.ui.settings.MainFragmentDirections;
 import com.anysoftkeyboard.ui.settings.MainSettingsActivity;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.util.List;
 
 public abstract class ChangeLogFragment extends Fragment {

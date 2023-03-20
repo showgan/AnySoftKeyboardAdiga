@@ -16,7 +16,7 @@ import com.anysoftkeyboard.RobolectricFragmentTestCase;
 import com.anysoftkeyboard.TestableAnySoftKeyboard;
 import com.anysoftkeyboard.api.KeyCodes;
 import com.anysoftkeyboard.keyboards.views.DemoAnyKeyboardView;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import org.junit.Assert;
 import org.junit.Ignore;
 import org.junit.Test;

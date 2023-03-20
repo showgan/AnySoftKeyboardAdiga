@@ -16,8 +16,8 @@ import com.anysoftkeyboard.nextword.NextWordDictionary;
 import com.anysoftkeyboard.nextword.NextWordStatistics;
 import com.anysoftkeyboard.rx.RxSchedulers;
 import com.anysoftkeyboard.utils.Triple;
-import com.menny.android.anysoftkeyboard.AnyApplication;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.AnyApplication;
+import com.mastegoane.android.anysoftkeyboard.R;
 import io.reactivex.Observable;
 import io.reactivex.disposables.CompositeDisposable;
 

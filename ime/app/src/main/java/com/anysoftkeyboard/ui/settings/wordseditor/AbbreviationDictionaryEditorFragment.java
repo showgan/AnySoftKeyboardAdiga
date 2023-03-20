@@ -13,7 +13,7 @@ import androidx.annotation.Nullable;
 import com.anysoftkeyboard.dictionaries.EditableDictionary;
 import com.anysoftkeyboard.dictionaries.sqlite.AbbreviationsDictionary;
 import com.anysoftkeyboard.ui.settings.MainSettingsActivity;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import io.reactivex.disposables.CompositeDisposable;
 import java.util.ArrayList;
 import java.util.List;

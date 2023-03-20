@@ -1,7 +1,7 @@
 package com.anysoftkeyboard.keyboards.views.preview;
 
 import static androidx.test.core.app.ApplicationProvider.getApplicationContext;
-import static com.menny.android.anysoftkeyboard.R.drawable.blacktheme_preview_background;
+import static com.mastegoane.android.anysoftkeyboard.R.drawable.blacktheme_preview_background;
 
 import android.app.Application;
 import android.graphics.Point;
@@ -17,7 +17,7 @@ import com.anysoftkeyboard.api.KeyCodes;
 import com.anysoftkeyboard.keyboards.Keyboard;
 import com.anysoftkeyboard.keyboards.views.AnyKeyboardViewBase;
 import com.anysoftkeyboard.rx.TestRxSchedulers;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.util.ArrayList;
 import java.util.List;
 import org.junit.Assert;

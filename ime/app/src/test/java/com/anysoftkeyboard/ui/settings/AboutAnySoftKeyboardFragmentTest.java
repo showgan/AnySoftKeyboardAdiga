@@ -7,8 +7,8 @@ import android.widget.TextView;
 import androidx.fragment.app.Fragment;
 import androidx.test.core.app.ApplicationProvider;
 import com.anysoftkeyboard.RobolectricFragmentTestCase;
-import com.menny.android.anysoftkeyboard.BuildConfig;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.BuildConfig;
+import com.mastegoane.android.anysoftkeyboard.R;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 import org.junit.Assert;
@@ -74,7 +74,7 @@ public class AboutAnySoftKeyboardFragmentTest
         Assert.assertNotNull(intent);
         Assert.assertEquals(Intent.ACTION_VIEW, intent.getAction());
         Assert.assertEquals(
-                "http://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard",
+                "http://play.google.com/store/apps/details?id=com.mastegoane.android.anysoftkeyboard",
                 intent.getData().toString());
     }
 

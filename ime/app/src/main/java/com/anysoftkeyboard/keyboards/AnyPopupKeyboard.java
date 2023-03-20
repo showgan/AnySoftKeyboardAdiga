@@ -26,7 +26,7 @@ import androidx.core.util.Predicate;
 import com.anysoftkeyboard.addons.AddOn;
 import com.anysoftkeyboard.keyboardextensions.KeyboardExtension;
 import com.anysoftkeyboard.utils.EmojiUtils;
-import com.menny.android.anysoftkeyboard.R;
+import com.mastegoane.android.anysoftkeyboard.R;
 import emoji.utils.JavaEmojiUtils;
 import java.util.List;
 

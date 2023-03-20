@@ -589,7 +589,7 @@
     <string name="allow_permission">Permiti</string>
     <string name="turn_off_contacts_dictionary">Istuda su ditzionàriu de sos cuntatos</string>
     <string name="read_more_about_permissions">Àteras informatziones a pitzu de sos permissos…</string>
-    <string name="ask_beta_link_promo">Salude! Cheres otènnere sas novidades de <i>AnySoftKeyboard</i> prus in presse? Tando ses fortunadu! Como est disponìbile unu canale <i>BETA</i> pro <b>TIE</b>!\nRegistra·ti dae su ligàmene inoghe in suta, e agiorna impreende sa butega de aplicatziones <i>Google Play</i>!\n\n https://play.google.com/apps/testing/com.menny.android.anysoftkeyboard \n\nE gràtzias meda pro s\'agiudu chi ses dende a s\'eliminatzione de sos errore in antis chi retzant su pùblicu.</string>
+    <string name="ask_beta_link_promo">Salude! Cheres otènnere sas novidades de <i>AnySoftKeyboard</i> prus in presse? Tando ses fortunadu! Como est disponìbile unu canale <i>BETA</i> pro <b>TIE</b>!\nRegistra·ti dae su ligàmene inoghe in suta, e agiorna impreende sa butega de aplicatziones <i>Google Play</i>!\n\n https://play.google.com/apps/testing/com.mastegoane.android.anysoftkeyboard \n\nE gràtzias meda pro s\'agiudu chi ses dende a s\'eliminatzione de sos errore in antis chi retzant su pùblicu.</string>
     <string name="clipboard_fine_select_enabled_toast">Ischertadura fina de testu abilitada. Imprea sas fritzas destra/manca.</string>
     <string name="app_shortcut_keyboards_disabled">Nàvigu de sas tastieras disabilitadu</string>
     <string name="app_shortcut_keyboards_long_label">Issèbera dispositziones de tastieras de impreare</string>
@@ -667,7 +667,7 @@
     <string name="aosp_light_theme_description">Tema de sa tastiera cun colores craros ispiradu a s\'AOSP</string>
     <string name="app_share_title">Salude dae AnySoftKeyboard</string>
     <string name="app_share_menu_title">Cumpartzi AnySoftKeyboard impreende</string>
-    <string name="app_share_text">Lassa chi ti cunsìgies s\'aplicatzione pro sa tastiera de Android a mitza aberta, chi rispetat sa ridervadesa tua, de badas, personalizabile meda e in prus limbas: AnySoftKeyboard.\nIscàrriga·la dae su:\nPlay Store: https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/</string>
+    <string name="app_share_text">Lassa chi ti cunsìgies s\'aplicatzione pro sa tastiera de Android a mitza aberta, chi rispetat sa ridervadesa tua, de badas, personalizabile meda e in prus limbas: AnySoftKeyboard.\nIscàrriga·la dae su:\nPlay Store: https://play.google.com/store/apps/details?id=com.mastegoane.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.mastegoane.android.anysoftkeyboard/</string>
     <string name="click_me_for_easter_egg_info">incarca·mi pro una sorpresa</string>
     <string name="backup_restore_not_support_before_kitkat">Non suportadu in s\'Android tuo</string>
     <string name="backup_restore_not_support_before_kitkat_message">Sa còpia de seguresa e su riprìstinu non sunt suportados pro dispositivos chi tenent unu sistema operativu Android prus betzu de KitKat (version 4.4). Nos dispraghet.</string>

@@ -687,7 +687,7 @@
     <string name="ask_beta_link_promo">Hej! Vil du have nye <i>AnySoftKeyboard</i> ting hurtigere? Så
         er du heldig! <i>BETA</i> kanalen er nu tilgængelig for <b>DIG</b>!\nBare tilmeld dig på
         linket nedenfor og opdater via <i>Google Play</i> app-butik!\n\n
-        https://play.google.com/apps/testing/com.menny.android.anysoftkeyboard \n\nOg tak for
+        https://play.google.com/apps/testing/com.mastegoane.android.anysoftkeyboard \n\nOg tak for
         hjælpe med at udrydde fejl, før de når offentligheden.
     </string>
     <string name="clipboard_fine_select_enabled_toast">Fin-tekstvalg aktiveret. Brug venstre/højre pile.</string>
@@ -772,7 +772,7 @@
     <string name="aosp_light_theme_description">Tastaturtema med AOSP-Inspireret lyse farver</string>
     <string name="app_share_title">Hej fra AnySoftKeyboard</string>
     <string name="app_share_menu_title">Del AnySoftKeyboard med</string>
-    <string name="app_share_text">Lad mig anbefale den open source, privatlivfokuseret, gratis, tilpasningsdygtige, flersproget Android tastatur-app AnySoftKeyboard.\nHent den fra:\nPlay Butik: https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.menny.android.android.anysoftkeyboard /</string>
+    <string name="app_share_text">Lad mig anbefale den open source, privatlivfokuseret, gratis, tilpasningsdygtige, flersproget Android tastatur-app AnySoftKeyboard.\nHent den fra:\nPlay Butik: https://play.google.com/store/apps/details?id=com.mastegoane.android.anysoftkeyboard\nF-Droid: https://f-droid.org/en/packages/com.menny.android.android.anysoftkeyboard /</string>
     <string name="click_me_for_easter_egg_info">klik på mig for en overraskelse</string>
     <string name="backup_restore_not_support_before_kitkat">Ikke understøttet på din Android</string>
     <string name="backup_restore_not_support_before_kitkat_message">Backup og gendannelse understøttes ikke for enheder, der kører Android OS før KitKat (version 4. 4). Beklager.</string>
