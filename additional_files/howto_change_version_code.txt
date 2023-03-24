@@ -1,3 +1,0 @@
-change versionCode and versionName in this file:
-gradle/versioning_apk.gradle
-
